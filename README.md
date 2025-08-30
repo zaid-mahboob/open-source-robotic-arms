@@ -1,6 +1,8 @@
 # Open-Source Robotic Arms Repository
 
-Welcome to the Open-Source Robotic Arms repository! This collection aims to provide detailed information about various open-source robotic arms available for learning, research, and development purposes. Each entry includes key specifications, applications, and other relevant details to help you choose the right robotic arm for your needs.
+I am currently pursuing a PhD in Computer Science with a specialization in robotics, focusing on robotic arms and humanoid robots. As part of my exploration, I have curated this list of open-source robotic arms. I have personally built the **SO-101** robotic arm and am now moving towards applying imitation learning and other advanced techniques on it.
+
+This repository is designed to provide detailed information about various open-source robotic arms available for learning, research, and development purposes. Each entry includes key specifications, applications, and other relevant details to help you choose the right robotic arm for your needs.
 
 ---
 
