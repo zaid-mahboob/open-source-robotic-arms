@@ -119,7 +119,3 @@ Welcome to the Open-Source Robotic Arms repository! This collection aims to prov
 ## 📌 **Contributing**
 
 We welcome contributions to this repository! If you have information about other open-source robotic arms or updates to existing entries, please feel free to submit a pull request. For guidelines on contributing, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
----
-
-This markdown file contains all the necessary details for your GitHub repository, and you can customize it further as needed.
