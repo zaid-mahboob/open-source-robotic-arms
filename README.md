@@ -6,18 +6,49 @@ This repository is designed to provide detailed information about various open-s
 
 ---
 
-## 🤖 1. **SO-101**
+## 🤖 1. **[SO-101](https://github.com/TheRobotStudio/SO-ARM100/tree/main)**
+
+
+<div>
+
+   <h3>Standard SO 101 Follower and Leader Arm</h3>
+   <div style="display: flex; gap: 1rem; justify-content: center; align-items: center;" >
+   <img
+      src="images/so101 _follower.png?raw=true"
+      alt="SO-101 follower arm"
+      title="SO-101 follower arm"
+      style="width: 40%;"
+    />
+   <img
+      src="images/so101_leader.png?raw=true"
+      alt="SO-101 leader arm"
+      title="SO-101 leader arm"
+      style="width: 40%;"
+    />
+</div>
 
 - **Developer**: RobotStudio in collaboration with Hugging Face
 - **Degrees of Freedom**: 6
 - **Control Interface**: PC-based control, supports NVIDIA Jetson AI modules and computers
 - **Assembly**: 3D printed components, servo motors
 - **Best Suited For**: AI developers and robotics researchers
-- **Description**: An open-source dual robotic arm kit designed to interface with Hugging Face’s LeRobot robotics framework. It features 6 degrees of freedom per arm and is designed for AI and robotics learning.
+- **Description**: An open-source dual (leader and follower) robotic arm kit designed to interface with Hugging Face’s LeRobot robotics framework. It features 6 degrees of freedom per arm and is designed for AI and robotics learning.
 
 ---
 
-## 🤖 2. **Arctos**
+## 🤖 2. **[Arctos](https://arctosrobotics.com/)**
+
+<div>
+
+   <h3>Arctos Arm</h3>
+   <div style="display: flex; gap: 1rem; justify-content: center; align-items: center;" >
+   <img
+      src="images/arctos.png?raw=true"
+      alt="SO-101 follower arm"
+      title="SO-101 follower arm"
+      style="width: 40%;"
+    />
+</div>
 
 - **Developer**: Arctos Robotics
 - **Degrees of Freedom**: 6
@@ -28,7 +59,19 @@ This repository is designed to provide detailed information about various open-s
 
 ---
 
-## 🤖 3. **Annin Robotics AR4**
+## 🤖 3. **[Annin Robotics AR4](https://anninrobotics.com/)**
+
+<div>
+
+   <h3>AR4</h3>
+   <div style="display: flex; gap: 1rem; justify-content: center; align-items: center;" >
+   <img
+      src="images/AR4.png?raw=true"
+      alt="SO-101 follower arm"
+      title="SO-101 follower arm"
+      style="width: 40%;"
+    />
+</div>
 
 - **Developer**: Annin Robotics
 - **Degrees of Freedom**: 6
@@ -41,7 +84,19 @@ This repository is designed to provide detailed information about various open-s
 
 ---
 
-## 🤖 4. **Thor Robotic Arm**
+## 🤖 4. **[Thor Robotic Arm](http://thor.angel-lm.com/)**
+
+<div>
+
+   <h3>Thor</h3>
+   <div style="display: flex; gap: 1rem; justify-content: center; align-items: center;" >
+   <img
+      src="images/thor.png?raw=true"
+      alt="SO-101 follower arm"
+      title="SO-101 follower arm"
+      style="width: 40%;"
+    />
+</div>
 
 - **Developer**: Ángel L. M.
 - **Degrees of Freedom**: 6
@@ -54,7 +109,19 @@ This repository is designed to provide detailed information about various open-s
 
 ---
 
-## 🤖 5. **Motus**
+## 🤖 5. **[Motus](https://www.instructables.com/MOTUS-Open-Source-3D-Printed-Robotic-Arm/)**
+
+<div>
+
+   <h3>Motus</h3>
+   <div style="display: flex; gap: 1rem; justify-content: center; align-items: center;" >
+   <img
+      src="images/motus.png?raw=true"
+      alt="SO-101 follower arm"
+      title="SO-101 follower arm"
+      style="width: 40%;"
+    />
+</div>
 
 - **Developer**: Elisava – Barcelona School of Design and Engineering
 - **Degrees of Freedom**: 6
@@ -67,7 +134,19 @@ This repository is designed to provide detailed information about various open-s
 
 ---
 
-## 🤖 6. **BCN3D MOVEO**
+## 🤖 6. **[BCN3D MOVEO](https://github.com/BCN3D/BCN3D-Moveo)**
+
+<div>
+
+   <h3>MOVEO</h3>
+   <div style="display: flex; gap: 1rem; justify-content: center; align-items: center;" >
+   <img
+      src="images/moveo.png?raw=true"
+      alt="SO-101 follower arm"
+      title="SO-101 follower arm"
+      style="width: 40%;"
+    />
+</div>
 
 - **Developer**: BCN3D Technologies
 - **Degrees of Freedom**: 5
@@ -78,7 +157,19 @@ This repository is designed to provide detailed information about various open-s
 
 ---
 
-## 🤖 7. **Pedro Robot**
+## 🤖 7. **[Pedro Robot](https://www.instructables.com/Pedro-2-Intro/)**
+
+<div>
+
+   <h3>Pedro</h3>
+   <div style="display: flex; gap: 1rem; justify-content: center; align-items: center;" >
+   <img
+      src="images/pedro.png?raw=true"
+      alt="SO-101 follower arm"
+      title="SO-101 follower arm"
+      style="width: 40%;"
+    />
+</div>
 
 - **Developer**: Almtzr
 - **Degrees of Freedom**: 4
@@ -89,7 +180,19 @@ This repository is designed to provide detailed information about various open-s
 
 ---
 
-## 🤖 8. **SCARA Robotic Arm**
+## 🤖 8. **[SCARA Robotic Arm](https://howtomechatronics.com/projects/scara-robot-how-to-build-your-own-arduino-based-robot/)**
+
+<div>
+
+   <h3>SCARA</h3>
+   <div style="display: flex; gap: 1rem; justify-content: center; align-items: center;" >
+   <img
+      src="images/scara.png?raw=true"
+      alt="SO-101 follower arm"
+      title="SO-101 follower arm"
+      style="width: 40%;"
+    />
+</div>
 
 - **Developer**: Caden Kraft
 - **Degrees of Freedom**: 4
@@ -118,6 +221,10 @@ This repository is designed to provide detailed information about various open-s
 
 ---
 
+## 📌 **Acknowledgements**
+
+I acknowledge that ChatGPT was used for formatting and better presentation of the content. All the images and content shown on this page is copied from their original sources which are linked with each arm.
+
 ## 📌 **Contributing**
 
-We welcome contributions to this repository! If you have information about other open-source robotic arms or updates to existing entries, please feel free to submit a pull request. For guidelines on contributing, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+I welcome contributions to this repository! If you have information about other open-source robotic arms or updates to existing entries, please feel free to submit a pull request. For guidelines on contributing, please refer to the [CONTRIBUTING.md](contributing.md) file.
